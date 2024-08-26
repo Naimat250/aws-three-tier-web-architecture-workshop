@@ -1,4 +1,6 @@
-# AWS Three-Tier Architecture Deployment #
+# AWS Three-Tier Web Application Deployment
+
+ 
 This repository contains the code and configuration files to deploy a fully automated AWS three-tier architecture, including VPC setup, database deployment, application tier, and load balancing.
 
 ## Table of Contents
